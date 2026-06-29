@@ -8,3 +8,11 @@ Ushbu repozitoriyda LeetCode platformasidagi masalalarning yechimlari joylab bor
 - `Algorithms/` - Algoritmlarga oid masalalar yechimlari
 
 Har bir masalaning yechimi bilan birga masalaning sharti va ishlash logikasi haqida tushuntirish berib borish maqsad qilingan.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0175-combine-two-tables/) | Easy |
+<!---LeetCode Topics End-->
