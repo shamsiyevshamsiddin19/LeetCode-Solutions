@@ -1,6 +1,7 @@
--- Write your PostgreSQL query statement below
-select c.name Customers
-    from Customers c
-    left join Orders o
-    on c.id = o.CustomerId
-    where o.id is null;
+select name  Customers
+from Customers c
+where not exists (
+    select 1 
+    from Orders o 
+    where o.customerId = c.id
+);
