@@ -21,4 +21,5 @@ Har bir masalaning yechimi bilan birga masalaning sharti va ishlash logikasi haq
 | [0196-delete-duplicate-emails](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0197-rising-temperature/) | Easy |
 | [0511-game-play-analysis-i](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0511-game-play-analysis-i/) | Easy |
+| [0577-employee-bonus](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
