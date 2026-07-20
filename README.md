@@ -28,6 +28,7 @@ Har bir masalaning yechimi bilan birga masalaning sharti va ishlash logikasi haq
 | [0596-classes-with-at-least-5-students](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [0607-sales-person](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0607-sales-person/) | Easy |
 | [0610-triangle-judgement](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0610-triangle-judgement/) | Easy |
+| [0619-biggest-single-number](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
