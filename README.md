@@ -30,6 +30,7 @@ Har bir masalaning yechimi bilan birga masalaning sharti va ishlash logikasi haq
 | [0610-triangle-judgement](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
