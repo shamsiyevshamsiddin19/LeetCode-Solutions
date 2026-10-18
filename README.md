@@ -32,6 +32,7 @@ Har bir masalaning yechimi bilan birga masalaning sharti va ishlash logikasi haq
 | [0620-not-boring-movies](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [0627-swap-sex-of-employees](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
+| [1141-user-activity-for-the-past-30-days-i](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
