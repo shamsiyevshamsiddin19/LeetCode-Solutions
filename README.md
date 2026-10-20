@@ -34,6 +34,7 @@ Har bir masalaning yechimi bilan birga masalaning sharti va ishlash logikasi haq
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/1050-actors-and-directors-who-cooperated-at-least-three-times/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/1148-article-views-i/) | Easy |
+| [1179-reformat-department-table](https://github.com/shamsiyevshamsiddin19/LeetCode-Solutions/tree/main/1179-reformat-department-table/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
